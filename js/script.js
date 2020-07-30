@@ -16,6 +16,9 @@ select.appendChild(NewOption).value = "T-shirt Theme";
 //Hide the color in the color drop down menu
 const SelectAllColor = document.getElementById("color");
 
+// create an event listener (e)
+// target the values once a theme is chosen
+
 console.log(select);
 
 //http://port-80-1kz33o63m2.treehouse-app.com/
